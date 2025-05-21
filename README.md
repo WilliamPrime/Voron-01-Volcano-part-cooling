@@ -10,6 +10,9 @@ An unofficial, really bad part cooling solution for if you use a volcano length 
 
 # short summary of what this is
 - modified part cooling ducts for dragon-HF with a volcano length block
+- same footprint ish
+- you loose ~10mm of z
+- not great for anything that needs much part cooling
 
 # full writing
 
@@ -33,5 +36,6 @@ so i deceided to create these abominations of part cooling ducts/ hotends
 
 # Disadvantages
 - Not very great airflow, if you are using a volcano length block and pushing 40mm^3 of PLA or other plastics per second, then this solution probably provides nowhere near enough part cooling to print those materials with an auxilery part cooling fan
+    - if you plan on using an aux part cooling fan then it still serves as a decent inbetween for printing between having everything on
 - longer on Z axis so you loose a bit of build volume making build volume 120x120x112
 
