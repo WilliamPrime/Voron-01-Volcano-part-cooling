@@ -3,9 +3,15 @@ An unofficial, really bad part cooling solution for if you use a volcano length 
 
 # changes compared to the default voron01 repo 
 [link back to main voron 0.1 repo](https://github.com/VoronDesign/Voron-0/tree/Voron0.1)
+
 [link to mini-afterSherpa repo](https://github.com/PrintersForAnts/Mini-AfterSherpa)
 
 - this page contains only the files for the modified part cooling ducts
+
+# short summary of what this is
+- modified part cooling ducts for dragon-HF with a volcano length block
+
+# full writing
 
 # preamblings and context for this project
 
@@ -18,6 +24,7 @@ so i went out and got a mellow heater block and cartridge that would turn my pha
 
 however i couldnt find any pre existing fan ducts that would cater to this fairly odd combinatin of parts
 so i deceided to create these abominations of part cooling ducts/ hotends
+
 
 # Benefits of using these
 - They are cool ig
