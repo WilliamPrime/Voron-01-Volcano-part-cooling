@@ -20,9 +20,9 @@ however i couldnt find any pre existing fan ducts that would cater to this fairl
 so i deceided to create these abominations of part cooling ducts/ hotends
 
 # Benefits of using these
--They are cool ig
--They use only the stock parts from the v0.1
--They are the same size in X and Y as the original 
+- They are cool ig
+- They use only the stock parts from the v0.1
+- They are the same size in X and Y as the original 
 
 # Disadvantages
 - Not very great airflow, if you are using a volcano length block and pushing 40mm^3 of PLA or other plastics per second, then this solution probably provides nowhere near enough part cooling to print those materials with an auxilery part cooling fan
