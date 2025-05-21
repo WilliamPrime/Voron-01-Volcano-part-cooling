@@ -26,4 +26,5 @@ so i deceided to create these abominations of part cooling ducts/ hotends
 
 # Disadvantages
 - Not very great airflow, if you are using a volcano length block and pushing 40mm^3 of PLA or other plastics per second, then this solution probably provides nowhere near enough part cooling to print those materials with an auxilery part cooling fan
+- longer on Z axis so you loose a bit of build volume making build volume 120x120x110
 
